@@ -1,0 +1,104 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Party Wheel logo">
+  <title>Party Wheel — Chairs, Tables, Inflatables</title>
+  <defs>
+    <clipPath id="pw-badgeClip">
+      <circle cx="250" cy="250" r="228"/>
+    </clipPath>
+    <radialGradient id="pw-bgGlow" cx="50%" cy="46%" r="60%">
+      <stop offset="0%" stop-color="#3a1f6b"/>
+      <stop offset="45%" stop-color="#180f2e"/>
+      <stop offset="100%" stop-color="#050308"/>
+    </radialGradient>
+    <path id="pw-ringTextPath" d="M 250 250 m -196 0 a 196 196 0 1 1 392 0" />
+  </defs>
+
+  <circle cx="250" cy="250" r="228" fill="url(#pw-bgGlow)"/>
+
+  <g clip-path="url(#pw-badgeClip)">
+    <g stroke="#9061f9" stroke-linecap="round">
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(0 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(15 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(30 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(45 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="4" opacity="0.65" transform="rotate(60 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(75 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(90 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(105 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="4" opacity="0.65" transform="rotate(120 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(135 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(150 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(165 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(180 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(195 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="4" opacity="0.65" transform="rotate(210 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(225 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(240 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(255 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="4" opacity="0.65" transform="rotate(270 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(285 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(300 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(315 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="3" opacity="0.55" transform="rotate(330 250 250)"/>
+      <line x1="250" y1="250" x2="250" y2="10" stroke-width="2" opacity="0.35" transform="rotate(345 250 250)"/>
+    </g>
+    <circle cx="250" cy="250" r="228" fill="url(#pw-bgGlow)" opacity="0.45"/>
+  </g>
+
+  <!-- platform -->
+  <ellipse cx="250" cy="372" rx="92" ry="16" fill="#050308" stroke="#e9e2ff" stroke-width="2"/>
+  <rect x="158" y="356" width="184" height="16" fill="#050308" stroke="#e9e2ff" stroke-width="2"/>
+
+  <!-- figure 1 (left) -->
+  <g stroke-linecap="round">
+    <path d="M 182 246 L 152 194" stroke="#f4f0ff" stroke-width="8" fill="none"/>
+    <circle cx="150" cy="190" r="9" fill="#f4f0ff"/>
+    <g fill="#050308" stroke="#f4f0ff" stroke-width="3" stroke-linejoin="round">
+      <circle cx="197" cy="222" r="17"/>
+      <path d="M 178 240 Q 175 290 182 356 L 214 356 Q 218 290 216 240 Z"/>
+    </g>
+  </g>
+
+  <!-- figure 2 (center, tallest, holds camera pole) -->
+  <g stroke-linecap="round">
+    <path d="M 238 226 L 207 172" stroke="#f4f0ff" stroke-width="8" fill="none"/>
+    <circle cx="205" cy="168" r="9" fill="#f4f0ff"/>
+    <path d="M 271 224 L 300 168" stroke="#f4f0ff" stroke-width="8" fill="none"/>
+    <circle cx="301" cy="164" r="8" fill="#f4f0ff"/>
+    <g fill="#050308" stroke="#f4f0ff" stroke-width="3" stroke-linejoin="round">
+      <circle cx="255" cy="200" r="19"/>
+      <path d="M 233 220 Q 228 285 238 356 L 274 356 Q 280 285 277 220 Z"/>
+    </g>
+  </g>
+
+  <!-- figure 3 (right) -->
+  <g stroke-linecap="round">
+    <path d="M 322 246 L 351 198" stroke="#f4f0ff" stroke-width="8" fill="none"/>
+    <circle cx="353" cy="194" r="9" fill="#f4f0ff"/>
+    <g fill="#050308" stroke="#f4f0ff" stroke-width="3" stroke-linejoin="round">
+      <circle cx="308" cy="224" r="16"/>
+      <path d="M 291 241 Q 288 292 294 356 L 324 356 Q 328 292 325 241 Z"/>
+    </g>
+  </g>
+
+  <!-- camera pole (held by figure 2's right hand) -->
+  <g stroke="#e9e2ff" stroke-width="3" fill="none" stroke-linecap="round">
+    <line x1="301" y1="164" x2="322" y2="118"/>
+  </g>
+  <g transform="translate(322 108) rotate(25)">
+    <rect x="-13" y="-9" width="26" height="18" rx="3" fill="#050308" stroke="#e9e2ff" stroke-width="2.5"/>
+    <circle cx="0" cy="0" r="5" fill="none" stroke="#e9e2ff" stroke-width="2"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="250" y="316" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="70" fill="#ffffff" stroke="#1e1033" stroke-width="1.5" transform="rotate(-4 250 316)">Party</text>
+  <text x="256" y="356" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="38" fill="#ffffff" stroke="#1e1033" stroke-width="1" transform="rotate(-2 256 356)">Wheel</text>
+
+  <!-- ring border -->
+  <circle cx="250" cy="250" r="228" fill="none" stroke="#f4f0ff" stroke-width="2.5"/>
+  <circle cx="250" cy="250" r="220" fill="none" stroke="#f4f0ff" stroke-width="2.5"/>
+
+  <!-- curved ring text -->
+  <text font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="700" font-size="19" fill="#ffffff" letter-spacing="4">
+    <textPath href="#pw-ringTextPath" startOffset="50%" text-anchor="middle">CHAIRS &#183; TABLES &#183; INFLATABLES</textPath>
+  </text>
+</svg>
